@@ -31,7 +31,6 @@ A powerful Python-based tool that generates interactive HTML reports for Windows
   - Mobile-friendly responsive design
 
 - **Self-contained Reports**: HTML reports work offline and can be viewed in any modern browser with no external dependencies
-[Uploading Forensic Investigation Report.html…]()
 
 ![image](https://github.com/user-attachments/assets/b3b59a16-d338-429b-9c49-60d018c7e7d8)
 
